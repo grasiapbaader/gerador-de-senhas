@@ -23,9 +23,3 @@ Você pode acessar a versão ao vivo do projeto no seguinte link:
 ## 📸 Preview
 
 <img width="719" height="727" alt="image" src="https://github.com/user-attachments/assets/d5f5f5a1-dc0a-4e30-95bc-b8dbf5532449" />
-
-## 💻 Tecnologias utilizadas
-
-- HTML5
-- CSS3
-- JavaScript
