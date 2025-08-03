@@ -1,6 +1,6 @@
 # 🔐 Gerador de Senhas
 
-Este é um projeto simples de gerador de senhas seguras, feito com **HTML**, **CSS** e **JavaScript**.
+Este é um projeto simples de gerador de senhas seguras e fortes, com diferentes combinações de letras, números e símbolos. 
 
 ## 🌐 Acesse o projeto
 
