@@ -1,6 +1,14 @@
 # 🔐 Gerador de Senhas
 
-Este é um projeto simples de gerador de senhas seguras, feito com **HTML**, **CSS** e **JavaScript**. Ele permite ao usuário criar senhas fortes com diferentes combinações de letras, números e símbolos ao fazer um cadastro.
+Este é um projeto simples de gerador de senhas seguras, feito com **HTML**, **CSS** e **JavaScript**.
+
+## 🌐 Acesse o projeto
+
+Você pode acessar a versão ao vivo do projeto no seguinte link:
+
+[https://grasiapbaader.github.io/gerador-de-senhas/](https://grasiapbaader.github.io/gerador-de-senhas/)
+
+---
 
 ## ✨ Funcionalidades
 
@@ -21,10 +29,3 @@ Este é um projeto simples de gerador de senhas seguras, feito com **HTML**, **C
 - HTML5
 - CSS3
 - JavaScript
-
-## 🚀 Como usar
-
-1. Clone este repositório:
-
-```bash
-git clone https://github.com/grasiapbaader/gerador-de-senhas.git
